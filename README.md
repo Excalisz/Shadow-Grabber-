@@ -1,6 +1,8 @@
 # Shadow-Grabber-
 A new Fully undetectable Stealer, FOR FREE [NO NEED TO DISABLE ANTIVIRUS!]🌌 Please Read README file before
 
+![image](https://github.com/Excalisz/Shadow-Grabber-/assets/149337616/1247bed3-1203-43f1-b7e9-b9628293060d)
+
 # Features
 - Grabs Discord Token🌌
 - Grabs Cookies🌌
